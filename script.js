@@ -19,7 +19,7 @@ let songs = [
     { songName: "closer", filePath: "3.mp3" },
     { songName: "daawat", filePath: "4.mp3" },
     { songName: "lambiyaan", filePath: "5.mp3" },
-    { songName: "votka", filePath: "6.mp3" },
+    { songName: "vodka", filePath: "6.mp3" },
 
 ];
 
